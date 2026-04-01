@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20eello's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<br/>
-
 _**"동작하는 코드보다 왜 이 구조여야 하는가를 먼저 고민하는 백엔드 개발자입니다."**_
 
-<br/>
 <br/>
 
 ## Tech Stack
